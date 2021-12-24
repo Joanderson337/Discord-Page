@@ -1,0 +1,48 @@
+.cabecalho{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 2.5rem;
+  background-image: linear-gradient(2deg ,#2F3136, #3944C6);
+}
+
+.cabecalho-logo{
+  height:6.5rem ;
+}
+
+.cabecalho-principal{
+  display: flex;
+  gap: 3.2rem;
+  padding: 2rem;
+}
+
+
+.cabecalho-principal-item{
+  font-size: 2.4rem;
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+
+.cabecalho-principal-item:hover{
+  color: #c299f1;
+}
+
+
+
+.cabecalhoButton{
+  background-color:#FFFFFF;
+  border-radius: 4rem;
+  width: 18.2rem;
+  height: 5.9rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 2.4rem;
+  text-align: center;
+  color: #3E3E3E }
+
+  .cabecalhoButton:hover{
+    background-color:#3E3E3E;
+    color: #FFFFFF;
+  }
+  

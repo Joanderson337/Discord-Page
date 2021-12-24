@@ -1,0 +1,18 @@
+.rodape{
+  padding-top: 3.1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+
+.imagem2{
+  position: absolute;
+  left: 10.5rem;
+}
+
+.imagem3{
+  display: flex;
+  position: absolute;
+  left: 82.5rem;
+  background-image: url(../img/Vector\ 1.svg);
+}
